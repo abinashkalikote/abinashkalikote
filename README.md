@@ -1,4 +1,4 @@
-umm# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working As Software Developer At Pratham IT System Pvt.Ltd. <br>👯 I’m looking to collaborate on Interesting & Helpful Projects.<br>🤝 I’m looking for help with Dot Net.<br>🌱 I’m currently Mastering Front End Development.<br><br>![giphy](https://user-images.githubusercontent.com/106871493/196890545-8f745604-3622-4a5f-80d7-02328227d478.gif)
 
 
@@ -12,7 +12,6 @@ umm# 💫 About Me:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abinashkalikote&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abinashkalikote&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinashkalikote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
