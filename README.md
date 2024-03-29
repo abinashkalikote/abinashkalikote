@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working As Technical Support Assitant Manager At Pratham IT System Pvt.Ltd. <br>👯 I’m looking to collaborate on Interesting & Helpful Projects.<br>🤝 I’m looking for help with Dot Net.<br>🌱 I’m currently Mastering Front End Development.<br><br>![giphy](https://user-images.githubusercontent.com/106871493/196890545-8f745604-3622-4a5f-80d7-02328227d478.gif)
+🔭 I’m currently working As Software Developer At Pratham IT System Pvt.Ltd. <br>👯 I’m looking to collaborate on Interesting & Helpful Projects.<br>🤝 I’m looking for help with Dot Net.<br>🌱 I’m currently Mastering Front End Development.<br><br>![giphy](https://user-images.githubusercontent.com/106871493/196890545-8f745604-3622-4a5f-80d7-02328227d478.gif)
 
 
 
