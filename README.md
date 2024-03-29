@@ -1,4 +1,4 @@
-# 💫 About Me:
+umm# 💫 About Me:
 🔭 I’m currently working As Software Developer At Pratham IT System Pvt.Ltd. <br>👯 I’m looking to collaborate on Interesting & Helpful Projects.<br>🤝 I’m looking for help with Dot Net.<br>🌱 I’m currently Mastering Front End Development.<br><br>![giphy](https://user-images.githubusercontent.com/106871493/196890545-8f745604-3622-4a5f-80d7-02328227d478.gif)
 
 
@@ -16,9 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbinashKalikote&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
